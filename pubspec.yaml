@@ -7,6 +7,7 @@ environment:
   sdk: '>=3.1.5 <4.0.0'
 
 dependencies:
+  carousel_slider: ^4.2.1
   flutter:
     sdk: flutter
 
@@ -17,3 +18,11 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/images/adu_revocer_logo.png
+    - assets/images/Rectangle 18.png
+    - assets/images/Rectangle 19.png
+    - assets/images/Rectangle 20.png
+    - assets/images/Rectangle 23.png
+    - assets/images/pembelajaran.png
+    - assets/images/pelatihan.png
